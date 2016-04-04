@@ -7,11 +7,11 @@ But in a team, we need to work together and we need to have our code consistent 
 That's why we created this guidelines. 
 
 
-[CSS Guidelines](css-guidelines.md)
-PHP Guidelines - work in progress
-JavaScript Guidelines - work in progress
-New Theme Setup - work in progress
-Computer Setup - work in progress
+- [CSS Guidelines](css-guidelines.md)
+- PHP Guidelines - work in progress
+- JavaScript Guidelines - work in progress
+- New Theme Setup - work in progress
+- Computer Setup - work in progress
 
 
 Because we do and love WordPress, we follow [WordPress Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/)

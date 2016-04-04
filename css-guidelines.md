@@ -14,7 +14,7 @@ Some basic rules are:
 
 SCSS linter would warn us about those. <br />
 For SublimeText: https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint <br />
-Place [.scss-lint.yml](.scss-lint.yml) in the root of project or in the [Home directory](https://en.wikipedia.org/wiki/Home_directory#Default_home_directory_per_operating_system)
+Place [.scss-lint.yml](.scss-lint.yml) to the root of project or to the [Home directory](https://en.wikipedia.org/wiki/Home_directory#Default_home_directory_per_operating_system)
 
 Example:
 
